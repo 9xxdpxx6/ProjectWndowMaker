@@ -1,0 +1,6 @@
+G:\Programs\C#\Project_4lib\Checkings\bin\Debug\Checkings.dll
+G:\Programs\C#\Project_4lib\Checkings\bin\Debug\Checkings.pdb
+G:\Programs\C#\Project_4lib\Checkings\obj\Debug\Checkings.csprojAssemblyReference.cache
+G:\Programs\C#\Project_4lib\Checkings\obj\Debug\Checkings.csproj.CoreCompileInputs.cache
+G:\Programs\C#\Project_4lib\Checkings\obj\Debug\Checkings.dll
+G:\Programs\C#\Project_4lib\Checkings\obj\Debug\Checkings.pdb
